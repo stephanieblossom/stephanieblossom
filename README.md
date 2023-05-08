@@ -14,7 +14,7 @@ In addition to my technical skills, I have a strong background in customer servi
 - Artificial Intelligence
 - Web Development
 - Data Science
-- Cybersecurity](https://www.linkedin.com/in/stephanie-blossom-831318208/)
+- Cybersecurity
 
 ## Connect With Me
 
