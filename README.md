@@ -9,15 +9,14 @@ Hello! My name is Stephanie, and I am a computer science student with a passion 
 In addition to my technical skills, I have a strong background in customer service and excel in teamwork and collaboration.
 
 
-## Interests
+[## Interests
 
 - Artificial Intelligence
 - Web Development
 - Data Science
-- Cybersecurity
+- Cybersecurity](https://www.linkedin.com/in/stephanie-blossom-831318208/)
 
 ## Connect With Me
 
-- Email: sblossom@asu.edu
-- LinkedIn: [https://www.linkedin.com/in/stephanie-blossom-831318208/]
-- Instagram: [https://instagram.com/stephaniecblossom?igshid=NTc4MTIwNjQ2YQ==]
+[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/stephanie-blossom-831318208/)
+
