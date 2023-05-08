@@ -9,7 +9,7 @@ Hello! My name is Stephanie, and I am a computer science student with a passion 
 In addition to my technical skills, I have a strong background in customer service and excel in teamwork and collaboration.
 
 
-[## Interests
+## Interests
 
 - Artificial Intelligence
 - Web Development
