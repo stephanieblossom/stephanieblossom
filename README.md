@@ -18,5 +18,5 @@ In addition to my technical skills, I have a strong background in customer servi
 
 ## Connect With Me
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/stephanie-blossom-831318208/)
-[![Website](https://cdn-icons-png.flaticon.com/512/2463/2463068.png)](https://stephanieblossom.w3spaces.com/)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20">](https://www.linkedin.com/in/stephanie-blossom-831318208/)
+[<img src="https://cdn-icons-png.flaticon.com/512/2463/2463068.png" alt="Website" width="20" height="20">](https://stephanieblossom.w3spaces.com/)
