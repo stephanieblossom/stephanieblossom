@@ -1,12 +1,5 @@
 ## About Me
-Hello! My name is Stephanie, and I am a computer science student with a passion for web development, data analytics, and programming. I have experience working with various programming languages, such as:
-
-- Java
-- Python
-- C/C++
-- HTML/CSS
-
-In addition to my technical skills, I have a strong background in customer service and excel in teamwork and collaboration.
+Hello! My name is Stephanie, a passionate and creative software developer with a focus on web development, data analysis, and machine learning. I'm always eager to learn new technologies and contribute to open-source projects.
 
 
 ## Languages and Tools
