@@ -11,7 +11,7 @@ In addition to my technical skills, I have a strong background in customer servi
 
 ## Languages and Tools
 
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg" alt="Java" width="40" height="40"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg" alt="C" width="40" height="40"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" alt="C++" width="40" height="40"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" alt="SQL" width="40" height="40"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="40" height="40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="40" height="40"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg" alt="C" width="40" height="40"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg" alt="C++" width="40" height="40"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg" alt="SQL" width="40" height="40"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg" alt="Python" width="40" height="40">
 
 
 ## Connect With Me
