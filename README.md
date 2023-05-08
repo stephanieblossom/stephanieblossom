@@ -14,7 +14,7 @@ Hello! My name is Stephanie, a passionate and creative software developer with a
     <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="Linux" width="40" height="40">
     <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="HTML" width="40" height="40">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" width="40" height="40">
-    <img src = "https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="Raspberry Pi" width = "40" height = "40">
+    <img src="https://www.raspberrypi.com/app/uploads/2022/02/COLOUR-Raspberry-Pi-Symbol-Registered.png" alt="Raspberry Pi" width="40" height="40">
 
 
 
