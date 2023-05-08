@@ -36,3 +36,4 @@ In addition to my technical skills, I have a strong background in customer servi
 
 - Email: sblossom@asu.edu
 - LinkedIn: [linkedin.com/in/stephanie](https://www.linkedin.com/in/stephanie-blossom-831318208/)
+- Instagram: https://instagram.com/stephaniecblossom?igshid=NTc4MTIwNjQ2YQ==
