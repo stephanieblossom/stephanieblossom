@@ -1,6 +1,5 @@
-
-<div align="center">
 ## About Me
+<div align="center">
 Hello! My name is Stephanie, a passionate and creative software developer with a focus on web development, data analysis, and machine learning. I'm always eager to learn new technologies and contribute to open-source projects.
     </div>
 
