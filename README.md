@@ -1,9 +1,12 @@
+
+<div align="center">
 ## About Me
 Hello! My name is Stephanie, a passionate and creative software developer with a focus on web development, data analysis, and machine learning. I'm always eager to learn new technologies and contribute to open-source projects.
+    </div>
 
 
 ## Languages and Tools
-<div style="display: flex;">
+<div style="display: flex;" align = "center">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java" width="40" height="40">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" alt="C" width="40" height="40">
     <img src="https://scrapbox.io/api/pages/Icons/C++/icon" alt="C++" width="40" height="40">
