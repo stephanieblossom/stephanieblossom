@@ -15,6 +15,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" width="40" height="40">
     <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40" height="40">
     <img src="https://static-00.iconduck.com/assets.00/gitkraken-icon-2048x1785-haw0umko.png" width="40" height="40">
+    <img src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon.png" width="40" height="40">
 
 
 
