@@ -1,7 +1,4 @@
-<div align="center">
-    <h2>About Me</h2>
-    <p>Hello! My name is Stephanie, a passionate and creative software developer with a focus on web development, data analysis, and machine learning. I'm always eager to learn new technologies and contribute to open-source projects.</p>
-</div>
+![stephanieblossom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieblossom&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <div align="center">
     <h2>Languages and tools</h2>
