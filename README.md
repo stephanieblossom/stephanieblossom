@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieblossom&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="stephanieblossom's Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanieblossom&theme=buefy&show_icons=true&hide_border=true&layout=compact" alt="stephanieblossom's Top Languages">
 
 <div align="center">
     <h2>Languages and tools</h2>
